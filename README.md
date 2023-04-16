@@ -8,8 +8,8 @@ The dataset will be cleaned and preprocessed to handle missing values, outliers,
  
 Machine learning algorithms such as XGBRegressor and random forests will be tested and evaluated for their performance in predicting diamond prices. The best-performing model will be selected. The selected model will be evaluated using performance metric such as mean absolute error.
 
-**Tools:**
-Programming language: Python
-Data preprocessing and analysis libraries: pandas, NumPy.
-data visualization libraries such as Matplotlib, Seaborn.
-Machine learning algorithms: XGBRegressor, random forests.
+**Tools:** <br >
+Programming language: Python <br >
+Data preprocessing and analysis libraries: pandas, NumPy. <br >
+data visualization libraries such as Matplotlib, Seaborn. <br >
+Machine learning algorithms: XGBRegressor, random forests. <br >
