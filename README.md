@@ -1,4 +1,4 @@
-# Diamond_price_prediction
+# Diamond price prediction
 
  A diamond retailer wants to predict the price of diamonds based on various features such as ,carat,cut,color,clarity,depth,table,x,y and z, in order to optimize pricing and improve sales.
  
